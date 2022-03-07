@@ -57,5 +57,5 @@ class MoneyTest {
 
 new MoneyTest().runAllTest();
 
-
+const = 'This is a test '
 
