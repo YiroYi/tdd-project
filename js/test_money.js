@@ -59,3 +59,10 @@ new MoneyTest().runAllTest();
 
 const = 'This is a test '
 
+const testCase = () => {
+  let a = 1
+  if (a > 1) {
+    'Error'
+  }
+}
+
