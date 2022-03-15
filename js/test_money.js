@@ -64,5 +64,7 @@ const testCase = () => {
   if (a > 1) {
     'Error'
   }
+
+  return 'The test successfully passed'
 }
 
