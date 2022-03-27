@@ -65,6 +65,9 @@ const testCase = () => {
     'Error'
   }
 
+  const money = 9
+  a = money
+
   return 'The test successfully passed'
 }
 
